@@ -957,6 +957,10 @@ i.flag.jp:before {
   content: "\e90e";
 }
 
+.icomoon-pass-reset:before {
+  content: "\e90f";
+}
+
 .ui-pnotify {
   top: 25px;
   right: 25px;
